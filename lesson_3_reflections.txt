@@ -5,3 +5,7 @@ You would want to use a remote repository when there is a need to share ones wor
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 You might have files that aren't ready to be shared on GitHub. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+With forks, you can edit a repository, on github, with github. with a clone, you can add the data from github to your local, then clone ti back to github With a branch, you just create alternative code. 
