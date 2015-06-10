@@ -13,3 +13,7 @@ With forks, you can edit a repository, on github, with github. with a clone, you
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It is so that one can go back and edit files without having to be online.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+you would want to make changes in a branch when you are trying out a new feature or making changes to an already working code, that way, the pre-existing code remains the main code until the code that is being worked on, is fully functional. 
